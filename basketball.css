@@ -1,0 +1,61 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-shadow: 5px 0 5px #1a35afe8;
+    background-color:rgb(236, 231, 231);
+    align-items: center;
+}
+
+.section1 p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.section1{
+    background-color: azure;
+}
+h3:hover{
+    background-color: rgb(211, 202, 202);
+    cursor: pointer;
+}
+
+section select{
+    border: 0px;
+        background-color: transparent;
+        font-size: 30px;
+}
+.bal{
+    width: 1340px;
+
+}
+.d{
+    display: flex;
+    justify-content: center;
+}
+video{width: 400px;
+}
+.V{
+    display: flex;
+    justify-content: space-around;
+}
+.ii{
+    width: 370px;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    font-family: cursive;
+}
+.section0 .a{
+    color: black;
+}
+.section0{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

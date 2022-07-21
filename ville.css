@@ -1,0 +1,45 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-shadow: 5px 0 5px #1a35afe8;
+    background-color:rgb(236, 231, 231);
+}
+h3{
+    font-size: 40px;
+}
+.section1 p{
+    font-size: 30px;
+padding-top: 20px;
+}
+img {
+    width: 350px;
+    height: 300px;
+}
+img:hover{width: 400px;
+height: 350px;}
+.lesimages{
+    display: flex;
+justify-content: space-around;
+}
+.section1{
+    background-color: azure;
+}
+h3:hover{
+    background-color: rgb(211, 202, 202);
+    cursor: pointer;
+    
+}
+.div{
+    display: flex;
+    justify-content:center ;
+    padding-top: 35px;
+    height: 700px;
+}
+section select{
+    border: 0px;
+        background-color: transparent;
+        font-size: 30px;
+
+        
+}

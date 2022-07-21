@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-shadow: 5px 0 5px #1a35afe8;
+    background-color:rgb(236, 231, 231);
+}
+h3{
+    font-size: 40px;
+}
+.section1 p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.section1{
+    background-color: azure;
+}
+section select{
+    border: 0px;
+        background-color: transparent;
+        font-size: 30px;
+
+        
+}
+div p{
+    font-size: 30px;
+}
+.imgss{
+   
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.ttt{
+    width: 300px;
+}
